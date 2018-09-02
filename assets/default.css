@@ -1,0 +1,17 @@
+@media print {
+    html, body {
+        margin: 0;
+    }
+}
+@media screen {
+    body {
+        background-color: #eee;
+    }
+}
+body {
+    text-align: center;
+}
+canvas {
+    background-color: #fff;
+    margin: auto;
+}
